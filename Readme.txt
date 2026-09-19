@@ -1,5 +1,5 @@
 Raspberry Pi PC (Pi 400) - Node-RED Backup
-file:///D:/1.Documents/5.Lab%20Work/3.L105/IOT%20Model/Node%20red/NodeRed%20SS/Screenshot%202026-08-19%20173010.png
+<img width="1906" height="863" alt="Image" src="https://github.com/user-attachments/assets/03a9ffbb-8fb7-4ad0-a23e-19e15ef9ef9b" />
 
 
 This folder contains the complete Node-RED dashboard and configuration backups for the IoT Model project running on the Raspberry Pi 400.
